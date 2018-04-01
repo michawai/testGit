@@ -1,4 +1,0 @@
-tmp1
-hello world mich
-jhello world mich mich
-hello SAP
